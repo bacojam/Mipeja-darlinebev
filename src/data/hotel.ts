@@ -23,7 +23,7 @@ export const hotel = {
 			name: "Double Deluxe",
 			slug: "double-deluxe",
 			price: "KES 5,800",
-			image: "/images/eleven.png",
+			image: "/images/eleven.webp",
 			description: "Experience unparalleled comfort in our Double Deluxe rooms, where modern luxury meets the calming influence of nature. Each room is meticulously designed to provide a serene sanctuary.",
 			features: ["56 m² in size", "Connecting rooms", "Pillow Menu", "Breakfast room"]
 		},
@@ -31,7 +31,7 @@ export const hotel = {
 			name: "Executive Twin City View",
 			slug: "executive-twin",
 			price: "KES 6,500",
-			image: "/images/twelve.png",
+			image: "/images/twelve.webp",
 			description: "Designed for business and leisure travelers alike, our Executive Twin rooms offer a blend of functionality and relaxation with stunning city vistas. Perfect for those who need a dedicated workspace without compromising on comfort.",
 			features: ["45 m² in size", "Workspace desk", "City view", "High-speed WiFi"]
 		},
@@ -39,7 +39,7 @@ export const hotel = {
 			name: "Family Suite Garden View",
 			slug: "family-suite",
 			price: "KES 8,400",
-			image: "/images/thirteen.png",
+			image: "/images/thirteen.webp",
 			description: "Spacious and inviting, the Family Suite provides the perfect retreat for your loved ones, featuring separate living areas and direct garden access. Create lasting memories in a space designed for togetherness.",
 			features: ["80 m² in size", "Two bedrooms", "Private terrace", "Kitchenette"]
 		}

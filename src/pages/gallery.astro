@@ -24,7 +24,7 @@ const pageDescription = `Gallery of photos from ${hotel.name} in ${hotel.locatio
                     { src: "/images/lounge.svg", title: "Shared Lounge" },
                     { src: "/images/restaurant.svg", title: "Restaurant" },
                     { src: "/images/hero.svg", title: "Hotel Exterior" },
-                    { src: "/images/mipeja-hero.jpg", title: "Welcome Plaza" }
+                    { src: "/images/mipeja-hero.webp", title: "Welcome Plaza" }
                 ].map((item, index) => (
                     <div class={`relative group overflow-hidden ${index % 4 === 0 ? 'lg:col-span-2 aspect-[16/9]' : 'aspect-square'}`}>
                         <img src={item.src} alt={item.title} class="w-full h-full object-cover grayscale opacity-80 group-hover:grayscale-0 group-hover:opacity-100 group-hover:scale-105 transition-all duration-1000" loading="lazy" />
